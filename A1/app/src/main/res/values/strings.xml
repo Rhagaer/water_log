@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WaterSaver</string>
+    <string name="total">Total</string>
+    <string name="l_unit">L</string>
+    <string name="shower_lbl">Shower Volume</string>
+    <string name="toilet_lbl">Toilet Volume</string>
+    <string name="hygiene_lbl">Hygiene Volume</string>
+    <string name="laundry_lbl">Laundry Volume</string>
+    <string name="dishes_lbl">Dishes Volume</string>
+    <string name="cooking_lbl">Cooking Volume</string>
+    <string name="cleaning_lbl">Cleaning Volume</string>
+    <string name="save">Save</string>
+    <string name="initial_vol">Total: 0L</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
